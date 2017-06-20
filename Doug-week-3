@@ -5,4 +5,11 @@
 talked about implementing event handlers and listeners in javascript in order to capture information from user input fields
 primarily used forms as the example
 example code link: https://codesandbox.io/s/RgrPQzj1R
+*Testing
+how to write basic tests to make sure functions work as intended
 
+##Tuesday
+*filter, map, reduce
+non destructive (doesnt hurt original array) vs destructive (changes the original array)
+talked about how to use these functions to manipulate arrays
+when we get to redux, not hurting original copies of data is beneficial
