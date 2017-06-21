@@ -13,3 +13,7 @@ how to write basic tests to make sure functions work as intended
 non destructive (doesnt hurt original array) vs destructive (changes the original array)
 talked about how to use these functions to manipulate arrays
 when we get to redux, not hurting original copies of data is beneficial
+
+##Wedsnesday
+*spread operator
+how to use and test the spread operator to add/remove objects from an array
