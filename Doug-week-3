@@ -17,3 +17,13 @@ when we get to redux, not hurting original copies of data is beneficial
 ##Wedsnesday
 *spread operator
 how to use and test the spread operator to add/remove objects from an array
+
+##Thursday
+*Started to combined the last few days of topics into a usable format that is used in the lego site project
+*Started the lego site from scratch, got react, materila ui, taptouchplugin, etc all set up
+talked about to arrange the filter/map/reduce cycle and implement it into the lego site
+*regexp as a language to help filter our results so that it is NOT case sensitive
+*regexp allows our code to filter down to return all results as u type a phrase.
+ex.. 'e' would return all results containing an e, then when u added another letter to the user input string like 'm'
+it will filter results 'em'
+*the '^' means starts with, using this with the $(value) makes the search look at the first letter of things rather than all letters
