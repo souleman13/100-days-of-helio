@@ -27,3 +27,18 @@ talked about to arrange the filter/map/reduce cycle and implement it into the le
 ex.. 'e' would return all results containing an e, then when u added another letter to the user input string like 'm'
 it will filter results 'em'
 *the '^' means starts with, using this with the $(value) makes the search look at the first letter of things rather than all letters
+
+##Friday
+*getters
+get fullName(){
+}
+used to retrieve the value of of a variable that was created in the constructor
+
+*setters
+used to assign logic to a value before you assign a variable to that value
+set Age(value){
+  if(value <0){
+    
+  }
+}
+
