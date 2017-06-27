@@ -1,0 +1,8 @@
+## Week 4
+
+# Monday
+
+# Tuesday
+*Promises - Async code that is better than callbacks but accomplished same goal
+big p Promise - class - .resolve() is for value, .reject() is for err
+lowercase p promise - instance - p.then() is for value, p.catch() is for err
