@@ -8,6 +8,12 @@
 * store - saves data
 * can use this pattern without react
 
+# Action
+* action creator - fn that creates a action object - useful but unneccesary because it can be created inline, within a dispatch
+* dispatch - fires/invokes/triggers an action - receives an action object that can be passed to other FNs
+# Reducer
+*
+
 # Thursday
 
 
