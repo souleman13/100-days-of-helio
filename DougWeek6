@@ -14,14 +14,17 @@
 * patch - modify (update)
 * delete - delete
 * HTTP Status codes - tells us what went wrong, if anything EX: 200 = ok, 500 = internal server error
-*
+* Express framework
 
 ## Wednesday
 * Hapi - framework similar to express for API
 * examples: Tylers Character-API on github
+* swagger - documents API
+*  set up mongoDB and got the server running
 
 ## Thursday
-*
+* start to creat lego-store-api
+* use robomongo to view the mongoDB contents
 
 ## Friday
 *
