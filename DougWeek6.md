@@ -27,4 +27,4 @@
 * use robomongo to view the mongoDB contents
 
 ## Friday
-*
+* review mongoDB and hook up  with hapi
