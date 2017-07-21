@@ -18,7 +18,12 @@ very scalable
 * data structure within in DB is different and the cause of many advantages and disadvantages
 
 ## Thursday
-* 
+* graph.cool vs firebase
+* differences between graph.cool and graphQL
+* firebase is at the mercy of google changing things about the framework
+* graph.cool runs MongoDB and a restAPI underneath the hood
 
 ## Friday
-*
+* intro to Apollo
+* frontend software that  handles the communication between graph.cool backend and react frontend
+* the apollo framework uses redux concepts and therefore does not require you to use redux
